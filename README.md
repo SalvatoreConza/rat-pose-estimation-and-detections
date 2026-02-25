@@ -178,9 +178,8 @@ The repo includes tools for a complete annotation pipeline:
 
 ## Supported Keypoints
 
-**Top view (35 keypoints):** nose, left/right eye, left/right ear base, left/right ear tip, ears midpoint, head midpoint, lower jaw, throat, chest, back withers, back midpoint, back croup, front left/right shoulder, front left/right elbow, front left/right wrist, front left/right paw, back left/right hip, back left/right knee, back left/right wrist, back left/right paw, tail base, tail upper midpoint, tail midpoint, tail lower midpoint, tail end.
+**(35 keypoints):** nose, left/right eye, left/right ear base, left/right ear tip, ears midpoint, head midpoint, lower jaw, throat, chest, back withers, back midpoint, back croup, front left/right shoulder, front left/right elbow, front left/right wrist, front left/right paw, back left/right hip, back left/right knee, back left/right wrist, back left/right paw, tail base, tail upper midpoint, tail midpoint, tail lower midpoint, tail end.
 
-**Bottom view (14 keypoints):** a subset focused on visible landmarks from below.
 
 ---
 
@@ -197,3 +196,4 @@ The repo includes tools for a complete annotation pipeline:
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
