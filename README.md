@@ -1,4 +1,4 @@
-# BNL-AI — Rodent Pose Estimation Pipeline
+# 🐀 BNL-AI — Rodent Pose Estimation Pipeline
 
 **Behavioural Neuroscience Laboratory**
 
@@ -196,4 +196,5 @@ The repo includes tools for a complete annotation pipeline:
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
 
